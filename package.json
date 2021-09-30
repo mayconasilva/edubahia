@@ -1,0 +1,12 @@
+{
+  "name": "professor",
+  "version": "2.0.0",
+  "description": "EduBahia é a versão 2.0 do Bot professor. Projeto criado com a intenção de ajudar as pessoas as estudarem",
+  "main": "index.js",
+  "repository": "https://github.com/mayconasilva/edubahia-bot",
+  "author": "mayconasilva <mayconsilva0381@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
