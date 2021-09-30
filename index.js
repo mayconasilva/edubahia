@@ -8,6 +8,9 @@ client.once("ready", () => {
   console.log(`A aula começou!`)
   console.log(`O bot foi iniciado com ${client.users.cache.size} usuários em ${client.guilds.cache.size} servidores.`)
 
+  client.user.setPresence({ game: { name: 'comando', type: 1, url: ''} });
+  client.user.setActivity(`Estudando com você!`)
+
 })
 
 client.on ("guildCreate", s => {
