@@ -19,6 +19,8 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 -  11/09/2021 - Comandos de simulados, flashcard e resumos removido para melhorias
 -  12/09/2021 - Comandos slash adicionados
 -  20/09/2021 - Comandos slash removidos devido a bugs
+-  06/10/2021 - Comandos slash readiocionados com os bugs resolvidos
+-  06/10/2021 - Adicionado o comando de simulado. Atualmente apenas com o simulado de português disponível
 
 ## Lista de Comandos
 
@@ -31,6 +33,9 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 - p!ping - Esse comando irá te mostrar a latênciado bot
 - p!donate - Esse comando irá te mostrar um pix copia e cola para doação para o bot.
 
+## Lista de comandos Slash
+- simulados - Esse comando irá testar seus conhecimentos através de um simulado
+
 > "O conhecimento não veio somente para sí, mas para ser compartilhado com todos aqueles que desejaram."
 
 ## Dependências
@@ -40,12 +45,11 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 - discord-api-types - 0.23.1
 - @discordjs/builders - 0.6.0
 
-Atualmente a única depêndencia que está sendo utilizada é a discord.js, entretanto em futuras atualizações as restantes serão utilizadas.
 
 [![Me Adicione](https://live.staticflickr.com/65535/51536212340_4601a5ec9e_n.jpg)](https://discord.com/api/oauth2/authorize?client_id=885897028725526558&permissions=534723947584&scope=bot%20applications.commands)
 
 ## License
 MIT
 
-**Última atualização do README: 30/09/2021**
+**Última atualização do README: 06/10/2021**
 
