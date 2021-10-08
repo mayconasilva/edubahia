@@ -63,11 +63,10 @@ module.exports = {
                                                                                         .then(w => {
                                                                                             res.push(w.map(a => a.content))
 
-                                                                                            if (res[0] == ans[0]) { pontos + 1 } if (res[1] == ans[1]) { pontos + 1 } if (res[2] == ans[2]) { pontos + 1 } if (res[3] == ans[3]) { pontos + 1 } if (res[4] == ans[4]) { pontos + 1 }
                                                                                             let embed = new Discord.MessageEmbed()
                                                                                                 .setTitle("Resultado")
                                                                                                 .setColor("#0B00C8")
-                                                                                                .setDescription(`Você acertou ${pontos.toString()}/5. As respostas das perguntas corretas eram ${ans}, respectivamente`)
+                                                                                                .setDescription(`Parabéns por concluir o simulado. Suas respostas foram ${res.toString()} e o gabarito das questões eram ${ans.toString()}`)
                                                                                             interaction.followUp({ embeds: [embed] })
                                                                                         })
                                                                                 })
