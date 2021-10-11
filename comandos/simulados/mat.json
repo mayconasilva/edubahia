@@ -1,0 +1,32 @@
+[
+    {
+    "question":"**(ENEM) **\n  Uma empresa de telefonia celular possui duas antenas que serão substituídas por uma nova, mais potente. As áreas de cobertura das antenas que serão substituídas são círculos de raio 2 km, cujas circunferências se tangenciam no ponto O como mostra a figura.\n https://s5.static.brasilescola.uol.com.br/exercicios/2021/10/representacao-areas-cobertura-antenas.jpg \n O ponto O indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores. \n Com a instalação da nova antena, a medida da área de cobertura, em quilômetros quadrados, foi ampliada em  \n A) 8π.  \n B) 12π.   \nC) 16π.  \nD) 32π.  \nE) 64π.",
+    "answers":[
+        "A"
+    ]
+    },
+    {
+        "question":"**(Enem)** \n João tem uma loja onde fabrica e vende moedas de chocolate com diâmetro de 4 cm e preço de R$ 1,50 a unidade. Pedro vai a essa loja e, após comer várias moedas de chocolate, sugere ao João que ele faça moedas com 8 cm de diâmetro e mesma espessura e cobre R$ 3 a unidade. Considerando que o preço da moeda depende apenas da quantidade de chocolate, João \nA) aceita a proposta de Pedro, pois, se dobra o diâmetro, o preço também deve dobrar.\n B) rejeita a proposta de Pedro, pois o preço correto seria R$ 12.\n C) rejeita a proposta de Pedro, pois o preço correto seria R$ 7,50. \nD) rejeita a proposta de Pedro, pois o preço correto seria R$ 6.\n E) rejeita a proposta de Pedro, pois o preço correto seria R$ 4,50.",
+        "answers":[
+            "D"
+        ]
+    },
+    {
+        "question":"** (FCC – Assit. Adm.- 2012 – Seplan – PM - MG)** \nUm atleta, participando de uma prova de triatlo, percorreu 120 km da seguinte maneira: 1/10 em corrida, 7/10 de bicicleta e o restante a nado. Esse atleta, para completar a prova, teve de nadar \n a) 18 km. \nb) 20 km. \nc) 24 km.\nd) 26 km.",
+        "answers":[
+            "C"
+        ]
+    },
+    {
+        "question":"Em uma empresa, existem três opções para as cores do uniforme. 15 funcionários escolheram o uniforme azul, 1/5 escolheu a cor rosa e ½ preferiu a cor verde. Calcule o total de funcionários da empresa.",
+        "answers":[
+            "50"
+        ]
+    },
+    {
+        "question":"Dois dados idênticos e sem qualquer vício foram lançados simultaneamente, e o resultado apresentado pela face superior de cada um deles foi anotado. Assinale a alternativa correta: \na) A probabilidade de as duas faces superiores apresentarem um número menor que três é de 50%. \n b) O lançamento dos dois dados é um evento. \nc) O espaço amostral desse experimento contém 12 elementos. \nd) A chance de sair números ímpares nos dois dados é de 50%. \ne) A chance de sair dois números iguais no lançamento dos dados é de aproximadamente 16,6%.",
+        "answers":[
+            "E"
+        ]
+    }
+]

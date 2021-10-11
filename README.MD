@@ -21,6 +21,8 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 -  20/09/2021 - Comandos slash removidos devido a bugs
 -  06/10/2021 - Comandos slash readiocionados com os bugs resolvidos
 -  06/10/2021 - Adicionado o comando de simulado. Atualmente apenas com o simulado de português disponível
+-  11/10/2021 - Adicionado a opção do simulado de português
+-  11/10/2021 - Correção de bugs
 
 ## Lista de Comandos
 
@@ -51,5 +53,5 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 ## License
 MIT
 
-**Última atualização do README: 06/10/2021**
+**Última atualização do README: 11/10/2021**
 

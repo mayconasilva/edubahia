@@ -26,7 +26,7 @@ const rest = new REST({ version: '9' }).setToken(config.token);
 		console.log('Iniciando carregamento dos comandos slash');
 
 		await rest.put(
-			Routes.applicationGuildCommands(config.clientID, config.guildID),
+			Routes.applicationGuildCommands(config.clientId, config.serverId),
 			{ body: comma },
 		);
     
