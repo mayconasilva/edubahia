@@ -23,6 +23,8 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 -  06/10/2021 - Adicionado o comando de simulado. Atualmente apenas com o simulado de português disponível
 -  11/10/2021 - Adicionado a opção do simulado de português
 -  11/10/2021 - Correção de bugs
+-  14/10/2021 - Adicionado comando da tabela periódica
+-  14/10/2021 - Melhoria no comando de simulaos
 
 ## Lista de Comandos
 
@@ -37,6 +39,7 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 
 ## Lista de comandos Slash
 - simulados - Esse comando irá testar seus conhecimentos através de um simulado
+- tabperiodia - Esse comando irá mostrar informações de um elemento químico informado de acordo com o valor de "Z
 
 > "O conhecimento não veio somente para sí, mas para ser compartilhado com todos aqueles que desejaram."
 
@@ -53,5 +56,5 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 ## License
 MIT
 
-**Última atualização do README: 11/10/2021**
+**Última atualização do README: 14/10/2021**
 
