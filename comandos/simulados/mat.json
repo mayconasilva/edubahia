@@ -1,32 +1,76 @@
 [
     {
-    "question":"**(ENEM) **\n  Uma empresa de telefonia celular possui duas antenas que serão substituídas por uma nova, mais potente. As áreas de cobertura das antenas que serão substituídas são círculos de raio 2 km, cujas circunferências se tangenciam no ponto O como mostra a figura.\n https://s5.static.brasilescola.uol.com.br/exercicios/2021/10/representacao-areas-cobertura-antenas.jpg \n O ponto O indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores. \n Com a instalação da nova antena, a medida da área de cobertura, em quilômetros quadrados, foi ampliada em  \n A) 8π.  \n B) 12π.   \nC) 16π.  \nD) 32π.  \nE) 64π.",
-    "answers":[
-        "A"
-    ]
+        "question": "**(ENEM) **\n  Uma empresa de telefonia celular possui duas antenas que serão substituídas por uma nova, mais potente. As áreas de cobertura das antenas que serão substituídas são círculos de raio 2 km, cujas circunferências se tangenciam no ponto O como mostra a figura.\n https://s5.static.brasilescola.uol.com.br/exercicios/2021/10/representacao-areas-cobertura-antenas.jpg \n O ponto O indica a posição da nova antena, e sua região de cobertura será um círculo cuja circunferência tangenciará externamente as circunferências das áreas de cobertura menores. \n Com a instalação da nova antena, a medida da área de cobertura, em quilômetros quadrados, foi ampliada em  \n A) 8π.  \n B) 12π.   \nC) 16π.  \nD) 32π.  \nE) 64π.",
+        "answers": [
+            "A"
+        ]
     },
     {
-        "question":"**(Enem)** \n João tem uma loja onde fabrica e vende moedas de chocolate com diâmetro de 4 cm e preço de R$ 1,50 a unidade. Pedro vai a essa loja e, após comer várias moedas de chocolate, sugere ao João que ele faça moedas com 8 cm de diâmetro e mesma espessura e cobre R$ 3 a unidade. Considerando que o preço da moeda depende apenas da quantidade de chocolate, João \nA) aceita a proposta de Pedro, pois, se dobra o diâmetro, o preço também deve dobrar.\n B) rejeita a proposta de Pedro, pois o preço correto seria R$ 12.\n C) rejeita a proposta de Pedro, pois o preço correto seria R$ 7,50. \nD) rejeita a proposta de Pedro, pois o preço correto seria R$ 6.\n E) rejeita a proposta de Pedro, pois o preço correto seria R$ 4,50.",
-        "answers":[
+        "question": "**(Enem)** \n João tem uma loja onde fabrica e vende moedas de chocolate com diâmetro de 4 cm e preço de R$ 1,50 a unidade. Pedro vai a essa loja e, após comer várias moedas de chocolate, sugere ao João que ele faça moedas com 8 cm de diâmetro e mesma espessura e cobre R$ 3 a unidade. Considerando que o preço da moeda depende apenas da quantidade de chocolate, João \nA) aceita a proposta de Pedro, pois, se dobra o diâmetro, o preço também deve dobrar.\n B) rejeita a proposta de Pedro, pois o preço correto seria R$ 12.\n C) rejeita a proposta de Pedro, pois o preço correto seria R$ 7,50. \nD) rejeita a proposta de Pedro, pois o preço correto seria R$ 6.\n E) rejeita a proposta de Pedro, pois o preço correto seria R$ 4,50.",
+        "answers": [
             "D"
         ]
     },
     {
-        "question":"** (FCC – Assit. Adm.- 2012 – Seplan – PM - MG)** \nUm atleta, participando de uma prova de triatlo, percorreu 120 km da seguinte maneira: 1/10 em corrida, 7/10 de bicicleta e o restante a nado. Esse atleta, para completar a prova, teve de nadar \n a) 18 km. \nb) 20 km. \nc) 24 km.\nd) 26 km.",
-        "answers":[
+        "question": "** (FCC – Assit. Adm.- 2012 – Seplan – PM - MG)** \nUm atleta, participando de uma prova de triatlo, percorreu 120 km da seguinte maneira: 1/10 em corrida, 7/10 de bicicleta e o restante a nado. Esse atleta, para completar a prova, teve de nadar \n a) 18 km. \nb) 20 km. \nc) 24 km.\nd) 26 km.",
+        "answers": [
             "C"
         ]
     },
     {
-        "question":"Em uma empresa, existem três opções para as cores do uniforme. 15 funcionários escolheram o uniforme azul, 1/5 escolheu a cor rosa e ½ preferiu a cor verde. Calcule o total de funcionários da empresa.",
-        "answers":[
+        "question": "Em uma empresa, existem três opções para as cores do uniforme. 15 funcionários escolheram o uniforme azul, 1/5 escolheu a cor rosa e ½ preferiu a cor verde. Calcule o total de funcionários da empresa.",
+        "answers": [
             "50"
         ]
     },
     {
-        "question":"Dois dados idênticos e sem qualquer vício foram lançados simultaneamente, e o resultado apresentado pela face superior de cada um deles foi anotado. Assinale a alternativa correta: \na) A probabilidade de as duas faces superiores apresentarem um número menor que três é de 50%. \n b) O lançamento dos dois dados é um evento. \nc) O espaço amostral desse experimento contém 12 elementos. \nd) A chance de sair números ímpares nos dois dados é de 50%. \ne) A chance de sair dois números iguais no lançamento dos dados é de aproximadamente 16,6%.",
-        "answers":[
+        "question": "Dois dados idênticos e sem qualquer vício foram lançados simultaneamente, e o resultado apresentado pela face superior de cada um deles foi anotado. Assinale a alternativa correta: \na) A probabilidade de as duas faces superiores apresentarem um número menor que três é de 50%. \n b) O lançamento dos dois dados é um evento. \nc) O espaço amostral desse experimento contém 12 elementos. \nd) A chance de sair números ímpares nos dois dados é de 50%. \ne) A chance de sair dois números iguais no lançamento dos dados é de aproximadamente 16,6%.",
+        "answers": [
             "E"
         ]
+    },
+    {
+        "question": "**(ENEM 2017) ** \n Um morador de uma região metropolitana tem 50% de probabilidade de atrasar-se para o trabalho quando chove na região; caso não chova, sua probabilidade de atraso é de 25%. Para um determinado dia, o serviço de meteorologia estima em 30% a probabilidade da ocorrência de chuva nessa região. \n Qual é a probabilidade de esse morador se atrasar para o serviço no dia para o qual foi dada a estimativa de chuva? \n a) 0,075 \nb) 0,150 \nc) 0,325 \nd) 0,600 \ne) 0,800",
+        "answers": [
+            "C"
+        ]
+    },
+    {
+        "question": "**(ENEM 2012)** \n Alguns objetos, durante a sua fabricação, necessitam passar por um processo de resfriamento. Para que isso ocorra, uma fábrica utiliza um tanque de resfriamento, como mostrado na figura. \n https://beduka.com/blog/wp-content/uploads/2020/06/Imagem-da-Quest%C3%A3o-do-Enem-2012-Alguns-objetos-durante-a-sua-fabrica%C3%A7%C3%A3o-necessitam-passar-por-um-processo-de-resfriamento.-Para-que-isso-ocorra-uma-f%C3%A1brica-utiliza-um-tanque-de-resfriamento..jpg  \n O que aconteceria com o nível da água se colocássemos no tanque um objeto cujo volume fosse de 2 400 cm³? \n a) O nível subiria 0,2 cm, fazendo a água ficar com 20,2 cm de altura. \nb) O nível subiria 1 cm, fazendo a água ficar com 21 cm de altura. \n c) O nível subiria 2 cm, fazendo a água ficar com 22 cm de altura. \nd) O nível subiria 8 cm, fazendo a água transbordar. \n e) O nível subiria 20 cm, fazendo a água transbordar.",
+        "answers": [
+            "C"
+        ]
+    },
+    {
+        "question": "**(ENEM 2014)** \n Uma criança deseja criar triângulos utilizando palitos de fósforo de mesmo comprimento. Cada triângulo será construído com exatamente 17 palitos e pelo menos um dos lados do triângulo deve ter o comprimento de exatamente 6 palitos. A figura ilustra um triângulo construído com essas características. \n https://beduka.com/blog/wp-content/uploads/2020/06/imagem-da-quest%C3%A3o-enem-2014.-Uma-crian%C3%A7a-deseja-criar-tri%C3%A2ngulos-utilizando-palitos-de-f%C3%B3sforo-de-mesmo-comprimento..jpg \n A quantidade máxima de triângulos não congruentes dois a dois que podem ser construídos é: \n   a)   3 \n b)   5 \n  c)   6 \n d)   8 \n e)  10",
+        "answers": [
+            "C"
+        ]
+    },
+    {
+        "question": "**(Enem digital 2020)** \n Três pessoas, X, Y e Z, compraram plantas ornamentais de uma mesma espécie que serão cultivadas em vasos de diferentes tamanhos. O vaso escolhido pela pessoa X tem capacidade de 4 m³. O vaso da pessoa Y tem capacidade de 7.000 cm³ e o de Z tem capacidade igual a 20 L. Após um tempo do plantio das mudas, um botânico que acompanha o desenvolvimento delas realizou algumas medições e registrou que a planta que está no vaso da pessoa X tem 0,6 m de altura. Já as plantas que estão nos vasos de Y e Z têm, respectivamente, alturas medindo 120 cm e 900 mm. O vaso de maior capacidade e a planta de maior altura são, respectivamente, os de: \n a) Y e X. \nb) Y e Z. \nc) Z e X. \nd) Z e Y. \ne) Z e Z.",
+        "answers": [
+            "D"
+        ]
+    },
+    {
+        "question": "**(ENEM 2020 Reaplicação)** \n Um estudante, morador da cidade de Contagem, ouviu dizer que nessa cidade existem ruas que formam um hexágono regular. Ao pesquisar em um sítio de mapas, verificou que o fato é verídico, como mostra a figura. \n https://1.bp.blogspot.com/-_qfh2K9ZDkc/YFEhP1U500I/AAAAAAAALjc/nk8eRxo77ocrXdKJR_vid6046dawGOCvwCLcBGAsYHQ/s16000/hexagono-regular-questao-enem-2020-reaplica%25C3%25A7%25C3%25A3o-contagem-escalas.png \n Ele observou que o mapa apresentado na tela do computador estava na escala 1 : 20 000. Nesse instante, mediu o comprimento de um dos segmentos que formam os lados desse hexágono, encontrando 5 cm. \n  Se esse estudante resolver dar uma volta completa pelas ruas que formam esse hexágono, ele percorrerá, em quilômetro,  \n a) 1 \n b) 4 \n c) 6 \n d) 20 \n e) 24",
+        "answers": [
+            "C"
+        ]
+    },
+    {
+        "question": "*(ENEM 2020 DIGITAL) ** \n O gráfico mostra o resultado do balanço financeiro mensal de uma empresa ao longo de um ano. \n https://d2q576s0wzfxtl.cloudfront.net/2021/03/05230514/133.png \n Em quantos meses o resultado do balanço financeiro da empresa ficou abaixo da média mensal nesse ano? \n a) 6 \n b) 7 \n c) 8 \n d) 9\n e) 10",
+        "answers": [
+            "B"
+        ]
+    },
+    {
+        "question":"**(ENEM 2020) ** \n Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A. \n Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é \n a) R/2 \n b) 2R \n c) 4R \n d) 5R \n e) 16R",
+        "answers":["B"]
+    },
+    {
+        "question":"**(ENEM 2020) ** Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino. \n A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é \n a) 13 \n b) 14 \n c) 17 \n \n d) 18 \ne) 21",
+        "answers":["C"]
     }
 ]

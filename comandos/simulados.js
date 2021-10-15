@@ -30,7 +30,6 @@ module.exports = {
 
             let res = []
             let ans = []
-            let pontos = 0
 
             let item = selecionar()
 
@@ -43,6 +42,7 @@ module.exports = {
                             res.push(m.map(a => a.content))
                             let item2 = selecionar()
                             ans.push(item2.answers)
+
                             interaction.followUp(item2.question, { fetchReply: true })
                                 .then(() => {
                                     interaction.channel.awaitMessages({ filter, max: 1 })
@@ -50,6 +50,7 @@ module.exports = {
                                             res.push(r.map(a => a.content))
                                             let item3 = selecionar()
                                             ans.push(item3.answers)
+
                                             interaction.followUp(item3.question, { fetchReply: true })
                                                 .then(() => {
                                                     interaction.channel.awaitMessages({ filter, max: 1 })
@@ -57,6 +58,7 @@ module.exports = {
                                                             res.push(p.map(a => a.content))
                                                             let item4 = selecionar()
                                                             ans.push(item4.answers)
+
                                                             interaction.followUp(item4.question, { fetchReply: true })
                                                                 .then(() => {
                                                                     interaction.channel.awaitMessages({ filter, max: 1 })
@@ -64,16 +66,24 @@ module.exports = {
                                                                             res.push(l.map(a => a.content))
                                                                             let item5 = selecionar()
                                                                             ans.push(item5.answers)
+
                                                                             interaction.followUp(item5.question, { fetchReply: true })
                                                                                 .then(() => {
                                                                                     interaction.channel.awaitMessages({ filter, max: 1 })
                                                                                         .then(w => {
                                                                                             res.push(w.map(a => a.content))
 
+
+
                                                                                             let embed = new Discord.MessageEmbed()
                                                                                                 .setTitle("Resultado")
                                                                                                 .setColor("#0B00C8")
-                                                                                                .setDescription(`Você acertou ${pontos.toString()}/5. As respostas das perguntas corretas eram ${ans}, respectivamente. As suas respostas era ${res}`)
+                                                                                                .addFields(
+                                                                                                    { name: "Suas Respostas", value: res, inline: true },
+                                                                                                    {
+                                                                                                        name: "Gabarito", value: ans, inline: true
+                                                                                                    }
+                                                                                                )
                                                                                             interaction.followUp({ embeds: [embed] })
                                                                                         })
                                                                                 })
