@@ -66,11 +66,57 @@
         ]
     },
     {
-        "question":"**(ENEM 2020) ** \n Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A. \n Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é \n a) R/2 \n b) 2R \n c) 4R \n d) 5R \n e) 16R",
-        "answers":["B"]
+        "question": "**(ENEM 2020) ** \n Uma loja de materiais de construção vende dois tipos de caixas-d’água: tipo A e tipo B. Ambas têm formato cilíndrico e possuem o mesmo volume, e a altura da caixa-d’água do tipo B é igual a 25% da altura da caixa-d’água do tipo A. \n Se R denota o raio da caixa-d’água do tipo A, então o raio da caixa-d’água do tipo B é \n a) R/2 \n b) 2R \n c) 4R \n d) 5R \n e) 16R",
+        "answers": [
+            "B"
+        ]
     },
     {
-        "question":"**(ENEM 2020) ** Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino. \n A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é \n a) 13 \n b) 14 \n c) 17 \n \n d) 18 \ne) 21",
-        "answers":["C"]
+        "question": "**(ENEM 2020) ** Um motociclista planeja realizar uma viagem cujo destino fica a 500 km de sua casa. Sua moto consome 5 litros de gasolina para cada 100 km rodados, e o tanque da moto tem capacidade para 22 litros. Pelo mapa, observou que no trajeto da viagem o último posto disponível para reabastecimento, chamado Estrela, fica a 80 km do seu destino. Ele pretende partir com o tanque da moto cheio e planeja fazer somente duas paradas para reabastecimento, uma na ida e outra na volta, ambas no posto Estrela. No reabastecimento para a viagem de ida, deve considerar também combustível suficiente para se deslocar por 200 km no seu destino. \n A quantidade mínima de combustível, em litro, que esse motociclista deve reabastecer no posto Estrela na viagem de ida, que seja suficiente para fazer o segundo reabastecimento, é \n a) 13 \n b) 14 \n c) 17 \n \n d) 18 \ne) 21",
+        "answers": [
+            "C"
+        ]
+    },
+    {
+        "question": "**(Fuvest)** \n Deseja-se construir um cone circular reto com 4cm de raio da base e 3cm de altura. Para isso, recorta-se, em cartolina, um setor circular para a superfície lateral e um círculo para a base. A medida do ângulo central do setor circular é: \n a) 144°\n b) 192°\n  c) 240°\n d) 288°\n e) 336°",
+        "answers": [
+            "D"
+        ]
+    },
+    {
+        "question": "**(Cesgranrio)** \n Um copo de papel, em forma de cone, é formado enrolando-se um semicírculo que tem um raio de 12cm. O volume do copo é de, aproximadamente: \n a) 390 cm² \nb) 350 cm² \n c) 300 cm² \n d) 260 cm² \n e) 230 cm²",
+        "answers": [
+            "A"
+        ]
+    },
+    {
+        "question": "**(UF - PI) ** \n  (UF – PI) Em um poliedro convexo, o número de arestas excede o número de faces em 18. O número de vértices desse poliedro é: \n a) 10 \n b) 2 \nc) 24 \nd) 30 \n  e) 32",
+        "answers": [
+            "B"
+        ]
+    },
+    {
+        "question": "**(Fuvest) ** \n O número de faces triangulares de uma pirâmide é 11. Pode-se, então, afirmar que esta pirâmide possui: \n a) 33 vértices e 22 arestas. \nb) 12 vértices e 11 arestas. \nc) 22 vértices e 11 arestas.\n d)  11 vértices e 22 arestas. \n e) 12 vértices e 22 arestas.",
+        "answers": [
+            "E"
+        ]
+    },
+    {
+        "question": "**(Pucamp - SP) ** \n Sobre as sentenças: \n I. Um octaedro regular tem 8 faces quadradas. \n II. Um dodecaedro regular tem 12 faces pentagonais. \n III. Um icosaedro regular tem 20 faces triangulares. \n É correto afirmar que apenas: \na) I é verdadeira. \n  b) II é verdadeira. \n   c) III é verdadeira. \n   d) I e III são verdadeiras. \n e) II e III são verdadeiras.",
+        "answers": [
+            "E"
+        ]
+    },
+    {
+        "question": " **(U.F. Santa Maria – RS)** \n Um poliedro convexo tem 12 faces triangulares e as demais, pentagonais. Sabendo que o número de arestas é o triplo do número de faces pentagonais, então a soma dos ângulos de todas as faces pentagonais é, em radianos, igual a: \n  a) 3π \n    b) 12π \n    c) 36π \n   d) 64π \n   e) 108π",
+        "answers": [
+            "E"
+        ]
+    },
+    {
+        "question": "**(U.F. – RS)** \nUm poliedro convexo tem seis faces triangulares e cinco faces quadrangulares. O número de arestas e de vértices do poliedro é, respectivamente: \na) 34 e 10 \n  b) 19 e 10 \n  c) 34 e 20 \n  d) 12 e 10 \n  e) 19 e 12",
+        "answers": [
+            "B"
+        ]
     }
 ]

@@ -37,13 +37,15 @@ const rest = new REST({ version: '9' }).setToken(config.token);
 	}
 })();
 
+
 client.once("ready", () => {
   console.log('Vinde Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do Vosso Amor. Enviai o Vosso Espírito e tudo será criado e renovareis a face da terra. \n Oremos: Ó Deus que instruíste os corações dos vossos fiéis, com a luz do Espírito Santo, fazei que apreciemos retamente todas as coisas segundo o mesmo Espírito e gozemos da sua consolação.Por Cristo Senhor Nosso. Amém.')
   console.log(`A aula começou!`)
   console.log(`O bot foi iniciado com ${client.users.cache.size} usuários em ${client.guilds.cache.size} servidores.`)
 
-  client.user.setPresence({ game: { name: 'comando', type: 1, url: ''} });
-  client.user.setActivity(`Estudando com você!`)
+  client.user.setPresence({ game: { name: 'estudando', type: 1, url: ''} });
+  client.user.setActivity("Estudando com você")
+  
 
 })
 

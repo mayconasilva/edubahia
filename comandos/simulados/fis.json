@@ -1,0 +1,60 @@
+[
+    {
+        "question":"**(Mundo Educação) **\n Analise as proposições a seguir sobre a reflexão da luz:\n  I – O fenômeno da reflexão ocorre quando a luz incide sobre uma superfície e retorna ao seu meio original\n\n  II – Quando ocorre reflexão difusa, a imagem formada é bastante nítida\n \n III – Na reflexão regular, os raios de luz propagam-se de forma paralela uns aos outros\n\n  IV – Quando a luz é refletida por uma superfície, o ângulo de reflexão é sempre igual ao ângulo de incidência da luz.\n  Estão corretas:\n a) I, II e III apenas \n b) I, III e IV apenas \n c) I, II e IV apenas \n d) II, III e IV apenas \n e) todas afirmativas estão corretas",
+        "answers":["B"]
+    },
+    {
+        "question":"**(PUC – SP)**\n O ângulo de incidência, em um espelho plano, é de 30º. Qual o valor do ângulo formado entre o raio refletido e a superfície?",
+        "answers":["60º"]
+    },
+    {
+        "question": "**(Só Física )**\n Um carro viaja de uma cidade A a uma cidade B, distantes 200km. Seu percurso demora 4 horas, pois decorrida uma hora de viagem, o pneu dianteiro esquerdo furou e precisou ser trocado, levando 1 hora e 20 minutos do tempo total gasto. Qual foi a velocidade média que o carro desenvolveu durante a viagem? (Não se esqueça de colocar a unidade de medida",
+        "answers":["50 km/h"]
+    },
+    {
+        "question":"**(Enem 2017)**\n Em uma colisão frontal entre dois automóveis, a força que o cinto de segurança exerce sobre o tórax e abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto. Os testes simularam uma colisão de 0,30 segundo de duração, e os bonecos que representavam os ocupantes foram equipados com acelerômetros. Esse equipamento registra o módulo da desaceleração do boneco em função do tempo. Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico de aceleração por tempo.\n A) 01 \n B) 02 \n C) 03 \n D) 04 \n E) 05. \nhttps://static.todamateria.com.br/upload/me/ca/mecanicanem2017.jpg",
+        "answers":["B"]
+    },
+    {
+        "question":"**(Enem 2018)**\n Muitos smartphones e tablets não precisam mais de teclas, uma vez que todos os comandos podem ser dados ao se pressionar a própria tela. Inicialmente essa tecnologia foi proporcionada por meio das telas resistivas, formadas basicamente por duas camadas de material condutor transparente que não se encostam até que alguém as pressione, modificando a resistência total do circuito de acordo com o ponto onde ocorre o toque. A imagem é uma simplificação do circuito formado pelas placas, em que A e B representam pontos onde o circuito pode ser fechado por meio do toque. Qual é a resistência equivalente no circuito provocada por um toque que fecha o circuito no ponto A?\n a) 1,3 kΩ\n b) 4,0 kΩ\n c) 6,0 kΩ\n d) 6,7 kΩ\n ) 12,0 kΩ https://static.todamateria.com.br/upload/re/si/resistoresenem6302018.jpg",
+        "answers":["C"]
+    },
+    {
+        "question":"**(Enem 2018) **\n O sonorizador é um dispositivo físico implantado sobre a superfície de uma rodovia de modo que provoque uma trepidação e ruído quando da passagem de um veículo sobre ele, alertando para a situação atípica à frente, como obras, pedágios ou travessia de pedestres. Ao passar sobre os sonorizadores, a suspensão do veículo sofre vibrações que produzem ondas sonoras, resultando em um barulho peculiar. Considere um veículo que passe com velocidade constante igual a 108 km/h sobre um sonorizador cujas faixas são separadas por uma distância de 8 cm. A frequência da vibração do automóvel percebida pelo condutor durante a passagem nesse sonorizador é mais próxima de: a) 8,6 hertz.\n b) 13,5 hertz. \n c) 375 hertz \n d) 1 350 hertz. \n  e) 4860 hertz.",
+        "answers": ["C"]
+    },
+    {
+        "question": "*(Enem 2016)** \n O motor de combustão interna, utilizado no transporte de pessoas e cargas, é uma máquina térmica cujo ciclo consiste em quatro etapas: admissão, compressão, explosão/expansão e escape. Essas etapas estão representadas no diagrama da pressão em função do volume. Nos motores a gasolina, a mistura ar/combustível entra em combustão por uma centelha elétrica. https://static.todamateria.com.br/upload/te/rm/termoenem2016.jpg Para o motor descrito, em qual ponto do ciclo é produzida a centelha elétrica? a) A\n b) B\n c) C\n d) D\n e) E",
+        "answers":["C"]
+    },
+    {
+        "question":" **(Enem/2018) ** \n Muitos primatas, incluindo nós humanos, possuem visão tricromática: três pigmentos visuais na retina sensíveis à luz de uma determinada faixa de comprimentos de onda. Informalmente, embora os pigmentos em si não possuem cor, estes são conhecidos como pigmentos azul, verde e vermelho e estão associados à cor que causa grande excitação (ativação). A sensação que temos ao observar um objeto colorido decorre da ativação relativa dos três pigmentos. Ou seja, se estimulássemos a retina com uma luz na faixa de 530 nm (retângulo I no gráfico), não excitaríamos o pigmento azul, o pigmento “verde” seria ativado ao máximo e o “vermelho” seria ativado em aproximadamente 75%, e isso nos daria a sensação de ver uma cor amarelada. Já uma luz na faixa de comprimento de onda de 600 nm (retângulo II) estimularia o pigmento “verde” um pouco e o “vermelho” em cerca de 75%, e isso nos daria a sensação de ver laranja-avermelhado. No entanto, há características genéticas presentes em alguns indivíduos, conhecidas coletivamente como Daltonismo, em que um ou mais pigmentos não funcionam perfeitamente.\n https://static.todamateria.com.br/upload/ot/ic/oticaenem2018.jpg \nCaso estimulássemos a retina de um indivíduo com essa característica, que não possuísse o pigmento conhecido como “verde”, com as luzes de 530 nm e 600 nm na mesma intensidade luminosa, esse indivíduo seria incapaz de \n a) identificar o comprimento de onda do amarelo, uma vez que não possui o pigmento verde. \n b) ver o estímulo de comprimento de onda laranja, pois não haveria estimulação de um pigmento visual. \n  c) detectar ambos os comprimentos de onda, uma vez que a estimulação dos pigmentos estaria prejudicada. \n d) visualizar o estímulo do comprimento de onda roxo, já que este se encontra na outra ponta do espectro. \n e) distinguir os dois comprimentos de onda, pois ambos estimulam o pigmento “vermelho” na mesma intensidade.",
+        "answers":["E"]
+    },
+    {
+        "question":"**(ITA 2020)**\n Conside g =10 m/s².\n  Considere uma teoria na qual a força de interação entre 'duas generalizadas' q1 e q2 em universos N-dimensiois é expressa por Fe = q1q2/(kr^n-1), em que k é uma constante caracyerística do meio. Sabe-se ainda que um polo p pode interagir com uma corrente de carga, i, gerando uma força F=ip/(r^N-2). Em todos os casos, r representa a distância entre os entes interagentes. Considerando as grandezas fundamentais massa, comprimento, tempo e corrente de carga, assinale a alternativa que corresponde à fórmula dimensionl de ku. \n a) L²T-²\n b)L-²T²\n c) l-²t-²\n d) L¹-nT²\n e)L-²T-²  ",
+        "answers": ["B"]
+    },
+    {
+        "question":"**(ITA 2020)**\n Por uma mangueira de diâmetro D1 flui água a uma velocidade de 360 m/min, conectando-se na sua extremidade a 30 outras mangueiras iguais entre si, de diâmetro D2 < D1. Assinale a relação D2/D1 para que os jatos de água na saída das mangueiras tenham alcance horizontal náximo de 40m. \n a) 1/10. b)1-2\n c) *rais de* 3/10\n d) 1/2\n e)*raiz de* 2/3",
+        "answers":["A"]
+    },
+    {
+        "question":"**(Enem - 2017)**\n Um motorista que atende a uma chamada de celular é levado à desatenção, aumentando a possibilidade de acidentes ocorrerem em razão do aumento de seu tempo de reação. Considere dois motoristas, o primeiro atento e o segundo utilizando o celular enquanto dirige. Eles aceleram seus carros inicialmente a 1,00 m/s2 . Em resposta a uma emergência, freiam com uma desaceleração igual a 5,00 m/s2 . O motorista atento aciona o freio à velocidade de 14,0 m/s, enquanto o desatento, em situação análoga, leva 1,00 segundo a mais para iniciar a frenagem. Que distância o motorista desatento percorre a mais do que o motorista atento, até a parada total dos carros? \n a) 2,90 m \n b) 14,0 m \n c) 14,5 m \n d) 15,0 m \n e) 17,4 m",
+        "answers":["E"]
+    },
+    {
+        "question":"**(UERJ - 2015) ** \n O número de bactérias em uma cultura cresce de modo análogo ao deslocamento de uma partícula em movimento uniformemente acelerado com velocidade inicial nula. Assim, pode-se afirmar que a taxa de crescimento de bactérias comporta-se da mesma maneira que a velocidade de uma partícula. Admita um experimento no qual foi medido o crescimento do número de bactérias em um meio adequado de cultura, durante um determinado período de tempo. Ao fim das primeiras quatro horas do experimento, o número de bactérias era igual a 8 × 105. Após a primeira hora, a taxa de crescimento dessa amostra, em número de bactérias por hora, foi igual a: \n a) 1,0 × 105 \n b) 2,0 × 105 \n c) 4,0 × 105 \n d) 8,0 × 105",
+        "answers":["a"]
+    },
+    {
+        "question":"**(Fuvest - 2018) ** Em uma tribo indígena de uma ilha tropical, o teste derradeiro de coragem de um jovem é deixar-se cair em um rio, do alto de um penhasco. Um desses jovens se soltou verticalmente, a partir do repouso, de uma altura de 45 m em relação à superfície da água. O tempo decorrido, em segundos, entre o instante em que o jovem iniciou sua queda e aquele em que um espectador, parado no alto do penhasco, ouviu o barulho do impacto do jovem na água é, aproximadamente, Note e adote: Considere o ar em repouso e ignore sua resistência\n Ignore as dimensões das pessoas envolvidas\n Velocidade do som no ar: 360 m/s\n Aceleração da gravidade: 10 m/s2. \n a) 3,1. \n b) 4,3.\n  c) 5,2. \n d) 6,2. \n e) 7,0",
+        "answers":["A"]
+    },
+    {
+        "question":"**(PUC/RJ - 2018)**\n Duas cargas elétricas +Q e +4Q estão fixas sobre o eixo x, respectivamente nas posições x = 0,0 m e x = 1,0 m. Uma terceira carga é posicionada entre as duas, sobre o eixo x, tal que se encontra em equilíbrio eletrostático. Qual é a posição da terceira carga, em m? \n a) 0,25 \n b) 0,33 \n c) 0,40 \n d) 0,50  \ne) 0,66",
+        "answers":["B"]
+    }
+    
+    
+]

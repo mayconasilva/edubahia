@@ -26,6 +26,7 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 -  14/10/2021 - Adicionado comando da tabela periódica
 -  14/10/2021 - Melhoria no comando de simulados
 -  16/10/2021 - Correção de bug que deixava o bot offline
+-  1610/2021 - Adicionado no simulaod as opções de física, biologia e químia
 
 ## Lista de Comandos
 
@@ -57,5 +58,5 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 ## License
 MIT
 
-**Última atualização do README: 14/10/2021**
+**Última atualização do README: 16/10/2021**
 

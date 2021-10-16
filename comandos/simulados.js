@@ -15,7 +15,7 @@ module.exports = {
 
         if (!disciplica) {
 
-            interaction.reply("Olá, como ai você? Atualmente nós temos as seguintes opções: \n - lplb; \n -mat")
+            interaction.reply("Olá, como ai você? Atualmente nós temos as seguintes opções: \n - lplb; \n -mat \n -bio \n -fis \n -qui")
 
         } else {
 
@@ -34,7 +34,7 @@ module.exports = {
             let item = selecionar()
 
             ans.push(item.answers)
-            interaction.reply("**Orientações para o simulado ** \n 1 - Serão 5 questões objetivas de diferentes provas e simulados \n 2 - Para os pontos serem contabilizados é necessário que você escreva a letra da questão em maiúsculo. Por exemplo, a resposta certa era a letra 'a', você irá escrever apenas 'A' \n 3 - Não há tempo limite para resposta, mas tente responder em 3 minutos \n 4 - Boa sorte")
+            interaction.reply("**Orientações para o simulado ** \n 1 - Serão 5 questões (em sua maioria objetivas) de diferentes provas e simulados \n 2 - Para os pontos serem contabilizados é necessário que você escreva a letra da questão em maiúsculo. Por exemplo, a resposta certa era a letra 'a', você irá escrever apenas 'A' \n 3 - Não há tempo limite para resposta, mas tente responder em 3 minutos \n 4 - Boa sorte")
             interaction.followUp(item.question, { fetchReply: true })
                 .then(() => {
                     interaction.channel.awaitMessages({ filter, max: 1 })

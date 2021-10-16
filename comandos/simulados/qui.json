@@ -1,0 +1,59 @@
+[
+    {
+        "question":"**(Brasil Escola)** \nUma reação química que apresenta diminuição da sua energia de ativação, provocada por uma das substâncias formadas a partir dos reagentes, deve ser denominada: a) catálise heterogênea\n b) catálise homogênea\n c) autocatálise\n d) catálise\n  e) nda.",
+        "answers":["C"]
+    }, 
+    {
+        "question":"**(Brasil Escola)** \nCada vez mais, estão sendo utilizadas substâncias que favorecem o aumento da velocidade de reações químicas. Isso traz uma série de benefícios para a empresa produtora, pois torna possível acelerar a produção, com uma fabricação mais limpa e barata e com processos feitos em temperaturas e pressões menores. Sem essas substâncias, muitas reações ocorrem bem lentamente em temperatura e pressão ambiente. Quais são essas substâncias? a) Inibidores\n b) Venenos\n c) Destruidores\n d) Catalisadores\n e) nda.",
+        "answers":["D"]
+    },
+    {
+        "question":"**(Unisinos-RS)**\n Nas indústrias químicas, os catalisadores são utilizados em larga escala, sendo responsáveis por inúmeros processos econômicos empregados na obtenção de bens de consumo importantes para o homem moderno. Podemos afirmar que, nas reações em que atuam, os catalisadores: a) aumentam a energia de ativação necessária para a reação\n b) diminuem a variação de entalpia do sistema\n c) atuam somente entre substâncias em solução\n d) diminuem a energia de ativação necessária para a reação\n e) aumentam a variação de entalpia da reação.",
+        "answers":["D"]
+    },
+    {
+        "question":"**(Enem-2018)**\n O grafeno é uma forma alotrópica do carbono constituído por uma folha planar (arranjo bidimensional) de átomos de carbono compactados e com a espessura de apenas um átomo. Sua estrutura é hexagonal, conforme a figura. https://static.todamateria.com.br/upload/ge/om/geometriadocarbono-0-cke.jpg. Nesse arranjo, os átomos de carbono possuem hibridação. a) sp de geometria linear\n b) sp2 de geometria trigonal planar\n c) sp3 alternados com carbonos com hibridação sp de geometria linear\n d) sp3d de geometria planar\n e) sp3d2 com geometria hexagonal planar.",
+        "answers":["B"]
+    },
+    {
+        "question":"**(Enem-2018)**\n As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas-operárias produzem o ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química.  LE COUTEUR, P.\n BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado). As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na  a) fórmula estrutural. \n b) fórmula molecular.\n c) identificação dos tipos de ligação. \n d) contagem do número de carbonos.\n e) identificação dos grupos funcionais.",
+        "answers":["A"]
+    },
+    {
+        "question":"**(Enem 2016)** \n https://s3.static.brasilescola.uol.com.br/img/2017/11/quimica%2068.jpg",
+        "answers":["B"]
+    },
+    {
+        "question":"**(ITA 2018) **\nUm recipiente de 240L de capacidade contém uma mistura dos gases ideais hidrogênio e dióxido de carbono, a 27 ºC. Sabendo que a pressão parcial do dióxido de carbano é três vezes menor que a pressão parcial do hidrogênio e que a pressão total da mistura gasosa é de 0,82 atm, assinale a alternativa que apresenta, respectivamente, as massas de hidrogênio e de dióxido de carbono contidas no recipiente. A) 2 g e 44g\n B) 6g e 44g\n C) 8g e 88g\n D) 12g e 88f\n e) 46g e 44g",
+        "answers":["D"]
+    },
+    {
+        "question":"**(Mundo Educação) **\n Em 1897, o cientista britânico J.J. Thomson descobriu, por meio de experiências com raios catódicos, a primeira evidência experimental da estrutura interna dos átomos. Com os estudos realizados por intermédio da utilização do tubo de raios catódicos, Thomson resolveu utilizar um nome simples para o átomo, que passou a ser conhecido como “pudim de passas”. Sobre o modelo do pudim de passas e o tubo de raios utilizado em sua descoberta, marque a alternativa correta: \na) o núcleo atômico ocupa um volume imenso no centro do átomo.\n b) os átomos são esferas que se assemelham a bolas de bilhar.\n c) os elétrons estão distribuídos em órbitas fixas ao redor do núcleo. \n d) as cargas negativas estão distribuídas homogeneamente por todo o átomo.\n e) os elétrons estão espalhados aleatoriamente no espaço interior do núcleo. ",
+        "answers":["D"]
+    },
+    {
+        "question":"**(UFMG)** \n No fim do século XIX, Thomson realizou experimentos em tubos de vidro que continham gases a baixas pressões, em que aplicava uma grande diferença de potencial. Isso provocava a emissão de raios catódicos. Esses raios, produzidos em um cátodo metálico, deslocavam-se em direção à extremidade do tubo (E). (Na figura, essa trajetória é representada pela linha tracejada X.) Nesses experimentos, Thomson observou que: \n I) a razão entre a carga e a massa dos raios catódicos era independente da natureza do metal constituinte do cátodo ou do gás existente no tubo. \n II) os raios catódicos, ao passarem entre duas placas carregadas com cargas de sinal contrário, desviavam-se na direção da placa positiva. (Na figura, esse desvio é representado pela linha tracejada Y.) Considerando-se essas observações, é CORRETO afirmar que os raios catódicos são constituídos de: \n a) elétrons. \n b) ânions.\n c) prótons.\n d) cátions. https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo/descricao-do-raios.jpg",
+        "answers":["A"]
+    },
+    {
+        "question":" **(Mack-2006)**\n Em uma embalagem que contém 250mL de certa bebida láctea, consta que esse alimento possui 6,4g de carboidratos em cada 100mL. Se a metabolização exclusivamente desses carboidratos libera 4,0kcal/g, então a energia liberada na metabolização de todo o conteúdo de carboidratos presente nessa bebida é dea) 25,6kcal.\n b) 64,0kcal.\n c) 256,0kcal. \nd) 100,0kcal.\n e) 40,0kcal.",
+        "answers":["B"]
+    },
+    {
+        "question":" **(GV-2000)**\n  Para a geração de energia mediante queima de carvão analisa-se a possibilidade de se usar um tipo de carvão importado que tem as seguintes características: poder calorífico igual a 10kcal/g e teor de enxofre igual a 0,5%. A geração de 10 × 1012kcal de energia lançaria na atmosfera a seguinte quantidade de dióxido de enxofre:(dados –massas molares: S = 32 g/mol e O = 16 g/mol)a) 10.000 ton \n b) 5.000 ton \n c) 10 × 106 ton \n d) 5 × 106 ton \ne) 2.500 ton",
+        "answers":["A"]
+    },
+    {
+        "question":"**(Vunesp-2005)** \nConsidere a equação a seguir:2H2(g) + O2(g) → 2H2O(l) ∆H = –572kJÉ correto afirmar que a reação é:\nA) exotérmica, liberando 286kJ por mol de oxigênio consumido.\nB) exotérmica, liberando 572kJ para dois mols de água produzida.\nC) endotérmica, consumindo 572kJ para dois mols de água produzida. \nD) endotérmica, liberando 572kJ para dois mols de oxigênio consumido. \nE) endotérmica, consumindo 286kJ por mol de água produzid",
+        "answers":["B"]
+    },
+    {
+        "question":"**(Mack-2003)** \nConsidere a equação termoquímica:C2H5OH + 3 O2 2 CO2+ 3 H2O ΔH=-300KcalO volume de etanol, em litros, que ao ser queimado libera tanta energia quanto a liberada na produção de um mol de hélio, é aproximadamente igual a:A) 13,2 x105\n B) 6,0 x107\n C) 3,0 x 103\n D) 8,0 x 104\nE) 7,5 x 10",
+        "answers":["D"]
+    },
+    {
+        "question":"A primeira Lei da Termodinâmica, denominada Lei  da Conservação da Energia  estabelece: \n―A energia do Universo é constante \n. Num sistema que realiza um trabalho de 125 J, absorvendo 75 J de calor, a variação de energia é igual a:\nA) –125 J\nB) –75 J\nC) –50 J\n D) 75 J\nE) 200 J",
+        "answers":["C"]
+    }
+
+]
