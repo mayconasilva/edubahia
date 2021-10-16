@@ -21,17 +21,18 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 -  20/09/2021 - Comandos slash removidos devido a bugs
 -  06/10/2021 - Comandos slash readiocionados com os bugs resolvidos
 -  06/10/2021 - Adicionado o comando de simulado. Atualmente apenas com o simulado de português disponível
--  11/10/2021 - Adicionado a opção do simulado de português
+-  11/10/2021 - Adicionado a opção de matemática para o simulado
 -  11/10/2021 - Correção de bugs
 -  14/10/2021 - Adicionado comando da tabela periódica
--  14/10/2021 - Melhoria no comando de simulaos
+-  14/10/2021 - Melhoria no comando de simulados
+-  16/10/2021 - Correção de bug que deixava o bot offline
 
 ## Lista de Comandos
 
 - p!add - Esse comando irá te mostrar a tabuada da adição do número informado;
 - p!sub - Esse comando irá te mostrar a tabuada da subtração do número informado;
 - p!mult - Esse comando irá te mostrar a tabuada da multiplicação do número informado;
-- p"div - Esse comando retornará a tabuada da divisão do número informdo informado;
+- p!div - Esse comando retornará a tabuada da divisão do número informdo informado;
 - p!botinfo - Esse comando irá te mostrar algumas informações sobre o nosso bot;
 - p!fatorial - Esse comando irá te mostrar o valor fatorial do número informado;
 - p!ping - Esse comando irá te mostrar a latênciado bot
@@ -39,7 +40,7 @@ EDUBAHIA é um projeto 100% gratuito com o objetivo de ajudar aqueles que não p
 
 ## Lista de comandos Slash
 - simulados - Esse comando irá testar seus conhecimentos através de um simulado
-- tabperiodia - Esse comando irá mostrar informações de um elemento químico informado de acordo com o valor de "Z
+- tabperiodia - Esse comando irá mostrar informações de um elemento químico informado de acordo com o valor de "Z"
 
 > "O conhecimento não veio somente para sí, mas para ser compartilhado com todos aqueles que desejaram."
 
