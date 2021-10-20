@@ -28,9 +28,7 @@ const rest = new REST({ version: '9' }).setToken(config.token);
 		await rest.put(
 			Routes.applicationGuildCommands(config.clientId, config.serverId),
 			{ body: comma },
-		);
-    
-
+		);    
 		console.log('Os comandos foram carregados com sucesso');
 	} catch (error) {
 		console.error(error);

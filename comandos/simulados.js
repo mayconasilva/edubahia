@@ -79,9 +79,9 @@ module.exports = {
                                                                                                 .setTitle("Resultado")
                                                                                                 .setColor("#0B00C8")
                                                                                                 .addFields(
-                                                                                                    { name: "Suas Respostas", value: res, inline: true },
+                                                                                                    { name: "Suas Respostas", value: res.toString(), inline: true },
                                                                                                     {
-                                                                                                        name: "Gabarito", value: ans, inline: true
+                                                                                                        name: "Gabarito", value: ans.toString(), inline: true
                                                                                                     }
                                                                                                 )
                                                                                             interaction.followUp({ embeds: [embed] })

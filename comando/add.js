@@ -16,7 +16,7 @@ module.exports.run = async (client, message, args) => {
    let embed = new Discord.MessageEmbed()
     .setColor('#0B00C8')
     .setTitle('**Tabuada da Adição**')
-    .addField("\u200b", res[0])
+    .addField("\u200b", res)
     message.channel.send({ embeds: [embed] })
 
 }
