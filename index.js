@@ -42,7 +42,7 @@ client.once("ready", () => {
   console.log(`O bot foi iniciado com ${client.users.cache.size} usuários em ${client.guilds.cache.size} servidores.`)
 
   client.user.setPresence({ game: { name: 'estudando', type: 1, url: ''} });
-  client.user.setActivity("Estudando com você")
+  client.user.setActivity("Estudando sempre com você")
   
 
 })

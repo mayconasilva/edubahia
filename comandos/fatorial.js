@@ -8,6 +8,9 @@ module.exports = {
     .addNumberOption(option => option.setName('num').setDescription('Digite um número')),
     async execute (interaction){
     const num = interaction.options.getNumber('num');
+    if (!num){
+        interaction.reply("Por favor, infome o número")
+    } else{
     let fatorial = num;
     let resultado = fatorial;
         for (var i = 1; i < fatorial; i++) {
@@ -19,5 +22,6 @@ module.exports = {
         .setTitle(`*Fatorial de ${fatorial}!*`)
         .addField("\u200b", res)
     await interaction.reply({ embeds: [embed] })
+    }
 }
 }
