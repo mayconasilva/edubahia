@@ -1,13 +1,5 @@
 const Discord = require("discord.js")
-const { SlashCommandBuilder } = require('@discordjs/builders');
 
-const data = new SlashCommandBuilder()
-	.setName('tabuadadivisao')
-	.setDescription('Retorna a tabuada da divisão do número informado')
-	.addStringOption(option =>
-		option.setName('input')
-			.setDescription('O valor informado é retornado')
-			.setRequired(true));
 module.exports.run = async (client, message, args) => {
     const sayMessage = args.join(" ")
     let arr = []
