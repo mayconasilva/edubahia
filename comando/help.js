@@ -13,7 +13,7 @@ module.exports.run = async (client, message, args) => {
     .addField("\u200b", "p!fatorial - Esse comando irá te retornar o fatorial do número informado")
     .addField("\u200b", "p!ping - Esse comando irá te retornar a latência")
     .addField("\u200b", "p!div - Esse comando irá te retornar a tabuada da divisão do número informado")
-    .setFooter(`2021 © ${userName.toString()}.`)
+    .setFooter(`2021 © ${client.user.username}.`)
     .setTimestamp()
 
   message.channel.send({ embeds: [embed] })
