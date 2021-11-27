@@ -19,7 +19,7 @@ module.exports.run = async (client, message, args) => {
     .addField('**Meu nick**', userName.toString())
     .addField('**Meu ID**', "885897028725526558")
     .addField('**Criado em**', '27/10/2020')
-    .addFields({ name: '**Usuários**', value: usersize.toString() }, { name: '**Servidores**', value: servesize.toString(), inline: true })
+    .addFields({ name: '**Usuários**', value: usersize.toString(), inline: true }, { name: '**Servidores**', value: servesize.toString(), inline: true })
     .setURL('https://mayconasilva.github.io/Projeto-Mais-Educacao/')
     .addField('**Contato:**', 'mayconasilvadeveloper@gmail.com')
     .setFooter(`2021 © ${userName.toString()}.`)

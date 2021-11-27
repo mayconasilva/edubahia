@@ -45,7 +45,7 @@
     },
     {
         "question":"**(UERJ - 2015) ** \n O número de bactérias em uma cultura cresce de modo análogo ao deslocamento de uma partícula em movimento uniformemente acelerado com velocidade inicial nula. Assim, pode-se afirmar que a taxa de crescimento de bactérias comporta-se da mesma maneira que a velocidade de uma partícula. Admita um experimento no qual foi medido o crescimento do número de bactérias em um meio adequado de cultura, durante um determinado período de tempo. Ao fim das primeiras quatro horas do experimento, o número de bactérias era igual a 8 × 105. Após a primeira hora, a taxa de crescimento dessa amostra, em número de bactérias por hora, foi igual a: \n a) 1,0 × 105 \n b) 2,0 × 105 \n c) 4,0 × 105 \n d) 8,0 × 105",
-        "answers":["a"]
+        "answers":["A"]
     },
     {
         "question":"**(Fuvest - 2018) ** Em uma tribo indígena de uma ilha tropical, o teste derradeiro de coragem de um jovem é deixar-se cair em um rio, do alto de um penhasco. Um desses jovens se soltou verticalmente, a partir do repouso, de uma altura de 45 m em relação à superfície da água. O tempo decorrido, em segundos, entre o instante em que o jovem iniciou sua queda e aquele em que um espectador, parado no alto do penhasco, ouviu o barulho do impacto do jovem na água é, aproximadamente, Note e adote: Considere o ar em repouso e ignore sua resistência\n Ignore as dimensões das pessoas envolvidas\n Velocidade do som no ar: 360 m/s\n Aceleração da gravidade: 10 m/s2. \n a) 3,1. \n b) 4,3.\n  c) 5,2. \n d) 6,2. \n e) 7,0",
@@ -53,6 +53,18 @@
     },
     {
         "question":"**(PUC/RJ - 2018)**\n Duas cargas elétricas +Q e +4Q estão fixas sobre o eixo x, respectivamente nas posições x = 0,0 m e x = 1,0 m. Uma terceira carga é posicionada entre as duas, sobre o eixo x, tal que se encontra em equilíbrio eletrostático. Qual é a posição da terceira carga, em m? \n a) 0,25 \n b) 0,33 \n c) 0,40 \n d) 0,50  \ne) 0,66",
+        "answers":["B"]
+    },
+    {
+        "question":"**(ENEM 2012)** \n A eficiência das lâmpadas pode ser comparada utilizando a razão, considerada linear, entre a quantidade de luz produzida e o consumo. A quantidade de luz é medida pelo fluxo luminoso, cuja unidade é o lúmen (lm). O consumo está relacionado à potência elétrica da lâmpada que é medida em watt (W). Por exemplo, uma lâmpada incandescente de 40W emite cerca de 600 lm, enquanto uma lâmpada fluorescente de 40 W emite cerca de 3000 lm. \n *Disponível em http://tecnologia.terra.com..br. Acesso em: 29 fev. de 2012 (adaptado).* A eficiência de uma lâmpada incandescente de 40 W é \n a) maior que a de uma lâmpada fluorescente de 8 W, que produz menor quantidade de luz. \n b)maior que a de uma lâmpada fluorescente de 40 W, que produz menor quantidade de luz.\n c) menor que a de uma lâmpada fluorescente de 8 W, que produz a mesma quantidade de luz. \n d)menor que a de uma lâmpada fluorescente de 40 W, pois consome maior quantidade de energia. \n e) igual a de uma lâmpada fluorescente de 40 W, que consome a mesma quantidade de energia.",
+        "answers":["C"]
+    },
+    {
+        "question":"**(ENEM 2012)** \nOs carrinhos de brinquedos podem ser de vários tipos. Dentre eles, há os movidos a corda, em que uma mola em seu interior é comprimida quando a criança puxa o carrinho para trás. Ao ser solto, o carrinho entra em movimento enquanto a mola volta à sua forma inicial. \n O processo de conversão de energia que ocorre no carrinho descrito também é verificado em \n a) um dínamo. \n b)um freio de automóvel. \n c) um motor a combustão. \n d)  uma usina hidroelétrica. \n e) uma atiradeira (estilingue).",
+        "answers":["E"]
+    },
+    {
+        "question":"**(ENEM 2012) ** \n Nossa pele possui células que reagem à incidência de luz ultravioleta e produzem uma substância chamada melnina, responsável pela pigmentação da pele. Pen sando em se bronzear, uma garota vestiu um biquíni, acendeu a luz de seu quarto e deitou-se exatamente abaixo da lâmpada incandescente. Após várias horas ela percebeu que não conseguiu resultado algum. \n  O bronzeamento não ocorreu porque a luz emitida pela lâmpada incandescente é de \n a) baixa intensidade.\n b) baixa frequência. \n c)  um espectro contínuo.\n d)   amplitude inadequada. \n e) curto comprimento de onda.",
         "answers":["B"]
     }
     
