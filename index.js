@@ -14,27 +14,25 @@ const commandFiles = fs.readdirSync('./comandos').filter(file => file.endsWith('
 
 for (const file of commandFiles) {
 	const command = require(`./comandos/${file}`);
-	client.commands.set(command.data.name, command);
-  comma.push(command.data.toJSON());
-  console.log(`Comando ${command.data.name} carregado`)
+	comma.push(command.data.toJSON());
 }
 
 const rest = new REST({ version: '9' }).setToken(config.token);
 
 (async () => {
 	try {
-		console.log('Iniciando carregamento dos comandos slash');
+		console.log('Started refreshing application (/) commands.');
 
 		await rest.put(
 			Routes.applicationGuildCommands(config.clientId, config.serverId),
 			{ body: comma },
-		);    
-		console.log('Os comandos foram carregados com sucesso');
+		);
+
+		console.log('Successfully reloaded application (/) commands.');
 	} catch (error) {
 		console.error(error);
 	}
 })();
-
 
 client.once("ready", () => {
   console.log('Vinde Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do Vosso Amor. Enviai o Vosso Espírito e tudo será criado e renovareis a face da terra. \n Oremos: Ó Deus que instruíste os corações dos vossos fiéis, com a luz do Espírito Santo, fazei que apreciemos retamente todas as coisas segundo o mesmo Espírito e gozemos da sua consolação.Por Cristo Senhor Nosso. Amém.')
